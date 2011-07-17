@@ -1,6 +1,16 @@
 # Best In Place
 **The Unobtrusive in Place editing solution**
 
+##Changes in this fork
+
+Options:
+
+- **:tag**: custom HTML tag for element
+- **:class**: custom class to add to element (in addition to best_in_place class)
+- **:prefix**: optional prefix to place before un-edited display element (not shown in edit box, not submitted to database)
+- **:suffix**: optional suffix to append to un-edited display element (not shown in edit box, not submitted to database); e.g. useful for a length measurement
+
+
 
 ##Description
 
